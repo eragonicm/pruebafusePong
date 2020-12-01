@@ -63,10 +63,6 @@
                             <div class="separator">
                                 <div class="clearfix"></div>
                                 <br />
-                                <div>
-                                    <h1><i class="fa fa-ticket"></i> Ticketly!</h1>
-                                    <p> <a style="text-decoration: underline;" target="_blank" href="http://github.com/amnersaucedososa">Support</a>is a Bootstrap 3 template. Privacy and Terms by <a target="_blank" style="text-decoration: underline;" href="http://github.com/amnersaucedososa">Abisoft</a></p>
-                                </div>
                             </div>
                         </form>
                     </section>
